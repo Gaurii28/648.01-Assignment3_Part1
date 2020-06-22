@@ -1,2 +1,2 @@
 test file :0
-congrats only : 10
+congrats only : 20
